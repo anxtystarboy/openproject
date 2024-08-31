@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "dockerfileLines": [
-    "FROM openproject/community:latest",
+    "FROM openproject/community:12",
     "EXPOSE 80"
   ]
 }
